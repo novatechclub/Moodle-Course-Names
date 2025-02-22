@@ -3,7 +3,7 @@
 This script allows the course names to be shown instead of those random numbers
 <br>
 
-<img src= '/tampermonkey/assets/example.png' width=50%>
+<img src= '/assets/example.png' width=50%>
 
 ## Installation:
 For a simple instalation video tutorial use this [link](https://www.youtube.com/watch?v=VOcr8BOcZdo)
@@ -13,7 +13,7 @@ For a simple instalation video tutorial use this [link](https://www.youtube.com/
 3. Then to **Utilities**
 4. At the end paste into **Import from URL** the following url:
 
-`https://raw.githubusercontent.com/powy-e/NOVA-SBE-tools/main/tampermonkey/moodle_course_names.js`
+`https://raw.githubusercontent.com/novatechclub/Moodle-Course-Names/main/moodle_course_names.js`
 
 5. Just confirm the installation
 6. Now just reload the moodle page and the extension should work
